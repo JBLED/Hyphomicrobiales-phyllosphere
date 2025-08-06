@@ -1,0 +1,272 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=170;
+	taxlabels
+	seq100_Chelatococcaceae_Chelatococcus_asaccharovorans
+	seq101_Chelatococcaceae_Chelatococcus_composti
+	seq102_Rhodoblastaceae_Rhodoblastus_alkanivorans
+	seq103_Alsobacteraceae_Alsobacter_ponti
+	seq104_Methylocystaceae_Methylocystis_suflitae
+	seq105_Boseaceae_Bosea_minatitlanensis
+	seq106_Methylocystaceae_Methylocystis_parvus
+	seq107_Methylocystaceae_Methylocystis_iwaonis
+	seq108_Methylocystaceae_Methylocystis_bryophila
+	seq109_Chelatococcaceae_Chelatococcus_albus
+	seq10_Meta_Soil
+	seq110_Boseaceae_Bosea_vestrisii
+	seq111_Boseaceae_Bosea_beijingensis
+	seq112_Boseaceae_Bosea_rubneri
+	seq113_Methylocystaceae_Methylocystis_borbori
+	seq114_Methylobacteriaceae_Hohaiivirga_grylli[&!name="Hohaiivirga"]
+	seq115_Chelatococcaceae_Pseudochelatococcus_lubricantis
+	seq116_Chelatococcaceae_Camelimonas_abortus
+	seq117_Boseaceae_Bosea_massiliensis
+	seq118_Boseaceae_Bosea_eneae
+	seq119_Chelatococcaceae_Camelimonas_lactis
+	seq11_Meta_Sediment
+	seq120_Boseaceae_Bosea_robiniae
+	seq121_Boseaceae_Bosea_lathyri
+	seq122_Boseaceae_Bosea_lupini
+	seq123_Boseaceae_Bosea_thiooxidans
+	seq124_Beijerinckiaceae_Beijerinckia_indica
+	seq125_Beijerinckiaceae_Methyloferula_stellata[&!name="Methyloferula"]
+	seq126_Beijerinckiaceae_Methylocapsa_acidiphila
+	seq127_Beijerinckiaceae_Beijerinckia_mobilis
+	seq128_Beijerinckiaceae_Methylocapsa_aurea
+	seq129_Beijerinckiaceae_Methylovirgula_ligni[&!name="Methylovirgula"]
+	seq12_Meta_Lichen
+	seq130_Beijerinckiaceae_Methylocella_tundrae
+	seq131_Beijerinckiaceae_Methylocapsa_polymorpha
+	seq132_JAJXWB01_NA
+	seq133_Methylobacteriaceae_Methylobacterium_sp_044
+	seq134_Methylobacteriaceae_Methylobacterium_nodulans
+	seq135_Methylobacteriaceae_Methylobacterium_fujisawaense
+	seq136_Methylobacteriaceae_Methylobacterium_sp_011
+	seq137_Methylobacteriaceae_Methylobacterium_sp_009
+	seq138_Methylobacteriaceae_Methylobacterium_sp_017
+	seq139_Methylobacteriaceae_Methylobacterium_durans
+	seq13_Meta_Lichen
+	seq140_Methylobacteriaceae_Methylobacterium_radiodurans
+	seq141_Methylobacteriaceae_Methylobacterium_sp_043
+	seq142_Methylobacteriaceae_Methylobacterium_oryzihabitans
+	seq143_Methylobacteriaceae_Methylobacterium_sp_001
+	seq144_Methylobacteriaceae_Microvirga_ossetica
+	seq145_Methylobacteriaceae_Methylobacterium_crusticola
+	seq146_Methylobacteriaceae_Methylobacterium_thiocyanatum
+	seq147_Methylobacteriaceae_Enterovirga_rhinocerotis
+	seq148_Methylobacteriaceae_Methylobacterium_sp_013
+	seq149_Methylobacteriaceae_Microvirga_sp_001
+	seq14_Meta_Lichen
+	seq150_Methylobacteriaceae_Methylobacterium_brachythecii
+	seq151_Methylobacteriaceae_Enterovirga_sp_001
+	seq152_Methylobacteriaceae_Methylobacterium_cerastii
+	seq153_Methylobacteriaceae_Methylobacterium_iners
+	seq154_Methylobacteriaceae_Methylobacterium_isbiliense
+	seq155_Methylobacteriaceae_Methylobacterium_jeotgali
+	seq156_Methylobacteriaceae_Methylobacterium_komagatae
+	seq157_Methylobacteriaceae_Methylobacterium_organophilum
+	seq158_Methylobacteriaceae_Methylobacterium_trifolii
+	seq159_Methylobacteriaceae_Methylobacterium_suomiense
+	seq15_Meta_Lichen
+	seq160_Beijerinckiaceae_Methylocapsa_palsarum
+	seq161_Beijerinckiaceae_Methylocella_silvestris
+	seq162_Rhodoblastaceae_Rhodoblastus_acidophilus
+	seq163_Rhodoblastaceae_Rhodoblastus_sphagnicola
+	seq164_Methylobacteriaceae_Salinarimonas_ramus
+	seq165_Methylobacteriaceae_Salinarimonas_rosea
+	seq166_Methylobacteriaceae_Salinarimonas_soli
+	seq167_Methylocystaceae_Methylocystis_echinoides
+	seq168_RH_AL1_NA
+	seq169_RH_AL1_NA
+	seq16_Meta_Lichen
+	seq170_Rhabdaerophilaceae_Rhabdaerophilum_calidifontis[&!name="Rhabdaerophilum"]
+	seq17_Meta_Lichen
+	seq18_Meta_Lichen
+	seq19_Meta_Lichen
+	seq1_Roseiarcaceae_Roseiarcus_fermantans[&!name="Roseiarcus"]
+	seq20_Meta_Lichen
+	seq21_Meta_Lichen
+	seq22_Meta_Lichen
+	seq23_Meta_Lichen
+	seq24_Meta_Lichen
+	seq25_Meta_Lichen
+	seq26_Meta_Lichen
+	seq27_Meta_Lichen
+	seq28_Meta_Phyllosphere
+	seq29_Meta_Phyllosphere
+	seq2_Lichenihabitantaceae_Lichenibacterium_ramalinae
+	seq30_Meta_Phyllosphere
+	seq31_Meta_Phyllosphere
+	seq32_Meta_Phyllosphere
+	seq33_Meta_Phyllosphere
+	seq34_Meta_Phyllosphere
+	seq35_Meta_Phyllosphere
+	seq36_Meta_Phyllosphere
+	seq37_Meta_Phyllosphere
+	seq38_Meta_Phyllosphere
+	seq39_Meta_Phyllosphere
+	seq3_Lichenihabitantaceae_Lichenibacterium_minor
+	seq40_Meta_Phyllosphere
+	seq41_Meta_Phyllosphere
+	seq42_Meta_Phyllosphere
+	seq43_Meta_Phyllosphere
+	seq44_Meta_Phyllosphere
+	seq45_Meta_Phyllosphere
+	seq46_Meta_Phyllosphere
+	seq47_Meta_Phyllosphere
+	seq48_Meta_Phyllosphere
+	seq49_Meta_Phyllosphere
+	seq4_Lichenihabitantaceae_Lichenihabitans_psoromatis
+	seq50_Meta_Moss
+	seq51_Meta_Lichen
+	seq52_Meta_Lichen
+	seq53_Meta_Lichen
+	seq54_Meta_Lichen
+	seq55_Meta_Lichen
+	seq56_Meta_Lichen
+	seq57_Meta_Lichen
+	seq58_Meta_Lichen
+	seq59_Meta_Lichen
+	seq5_Lichenihabitantaceae_Lichenihabitans_psoromatis
+	seq60_Meta_Lichen
+	seq61_Meta_Lichen
+	seq62_Meta_Lichen
+	seq63_Meta_Moss
+	seq64_Meta_Lichen
+	seq65_Meta_Lichen
+	seq66_Meta_Lichen
+	seq67_Meta_Lichen
+	seq68_Meta_Lichen
+	seq69_Meta_Lichen
+	seq6_Lichenihabitantaceae_Lichenibacterium_dinghuense
+	seq70_Meta_Lichen
+	seq71_Meta_Lichen
+	seq72_Meta_Lichen
+	seq73_Meta_Lichen
+	seq74_Meta_Lichen
+	seq75_Meta_Lichen
+	seq76_Meta_Lichen
+	seq77_Meta_Lichen
+	seq78_Meta_Lichen
+	seq79_Meta_Moss
+	seq7_Lichenihabitantaceae_Lichenihabitans_sp
+	seq80_Meta_Moss
+	seq81_Meta_Moss
+	seq82_Methylocystaceae_Methylosinus_trichosporium
+	seq83_Methylocystaceae_Methylocystis_rosea
+	seq84_Chelatococcaceae_Chelatococcus_sambhunathii
+	seq85_Boseaceae_Bosea_vaviloviae
+	seq86_Boseaceae_Bosea_psychrotolerans
+	seq87_Alsobacteraceae_Alsobacter_soli
+	seq88_Methylocystaceae_Methylosinus_sporium
+	seq89_Boseaceae_Bosea_caraganae
+	seq8_Lichenihabitantaceae_Lichenifustis_flavocetrariae
+	seq90_Methylocystaceae_Methylocystis_hirsuta
+	seq91_Methylocystaceae_Methylocystis_heyeri
+	seq92_Methylobacteriaceae_Enterovirga_aerilata
+	seq93_Methylocystaceae_Methylocystis_silviterrae
+	seq94_Chelatococcaceae_Pseudochelatococcus_contaminans
+	seq95_Chelatococcaceae_Chelatococcus_caeni
+	seq96_Alsobacteraceae_Alsobacter_metallidurans
+	seq97_Chelatococcaceae_Chelatococcus_reniformis
+	seq98_Chelatococcaceae_Camelimonas_fluminis
+	seq99_Boseaceae_Bosea_spartocytisi
+	seq9_Lichenihabitantaceae_Lichenifustis_sp
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (seq116_Chelatococcaceae_Camelimonas_abortus:1.0,((seq119_Chelatococcaceae_Camelimonas_lactis:1.0,seq98_Chelatococcaceae_Camelimonas_fluminis:1.0)[&label=1]:3.714763,(seq97_Chelatococcaceae_Chelatococcus_reniformis:1.0,(((seq100_Chelatococcaceae_Chelatococcus_asaccharovorans:1.0,(seq115_Chelatococcaceae_Pseudochelatococcus_lubricantis:1.0,seq94_Chelatococcaceae_Pseudochelatococcus_contaminans:1.0)[&label=1]:4.654441)[&label=1,!collapse={"collapsed",14.295782725353204},!name="Pseudochelatococcus"]:0.316103,(seq109_Chelatococcaceae_Chelatococcus_albus:1.0,(seq101_Chelatococcaceae_Chelatococcus_composti:1.0,(seq84_Chelatococcaceae_Chelatococcus_sambhunathii:1.0,seq95_Chelatococcaceae_Chelatococcus_caeni:1.0)[&label=1]:2.350204)[&label=1]:4.278254)[&label=1,!name="Chelatococcus",!collapse={"collapsed",11.810492706229505}]:0.827376)[&label=1,!name="Chelatococcus + Pseudochelatococcus"]:0.89685,((((seq166_Methylobacteriaceae_Salinarimonas_soli:1.0,(seq165_Methylobacteriaceae_Salinarimonas_rosea:1.0,seq164_Methylobacteriaceae_Salinarimonas_ramus:1.0)[&label=1]:5.470187)[&label=1,!collapse={"collapsed",13.255989673347996},!name="Salinarimonas"]:0.478915,(seq114_Methylobacteriaceae_Hohaiivirga_grylli:1.0,(seq144_Methylobacteriaceae_Microvirga_ossetica:1.0,seq149_Methylobacteriaceae_Microvirga_sp_001:1.0)[&label=1,!collapse={"collapsed",16.379280634283525},!name="Microvirga"]:1.65196)[&label=1]:1.173851)[&label=0.69,!rotate=true]:0.046711,((seq38_Meta_Phyllosphere:1.0,((seq147_Methylobacteriaceae_Enterovirga_rhinocerotis:1.0,(seq53_Meta_Lichen:1.0,seq52_Meta_Lichen:1.0)[&label=1]:0.330635)[&label=1]:1.422013,((seq51_Meta_Lichen:1.0,seq55_Meta_Lichen:1.0)[&label=1]:4.5395,(seq54_Meta_Lichen:1.0,(seq56_Meta_Lichen:1.0,(seq92_Methylobacteriaceae_Enterovirga_aerilata:1.0,seq151_Methylobacteriaceae_Enterovirga_sp_001:1.0)[&label=1]:5.768554)[&label=1]:2.352818)[&label=1]:0.578478)[&label=1]:0.292811)[&label=1]:0.363429)[&label=1,!collapse={"collapsed",7.086629557732838},!name="Enterovirga",!color=#ff6666]:2.390566,(((seq154_Methylobacteriaceae_Methylobacterium_isbiliense:1.0,(seq134_Methylobacteriaceae_Methylobacterium_nodulans:1.0,seq133_Methylobacteriaceae_Methylobacterium_sp_044:1.0)[&label=1]:1.268466)[&label=1]:2.276074,(seq142_Methylobacteriaceae_Methylobacterium_oryzihabitans:1.0,(seq145_Methylobacteriaceae_Methylobacterium_crusticola:1.0,seq141_Methylobacteriaceae_Methylobacterium_sp_043:1.0)[&label=1]:0.909767)[&label=1]:0.220029)[&label=1,!collapse={"collapsed",8.93789550718939},!name="Methylobacterium C"]:3.056209,(((seq46_Meta_Phyllosphere:1.0,seq28_Meta_Phyllosphere:1.0)[&label=1]:5.666772,(seq150_Methylobacteriaceae_Methylobacterium_brachythecii:1.0,(seq157_Methylobacteriaceae_Methylobacterium_organophilum:1.0,(seq146_Methylobacteriaceae_Methylobacterium_thiocyanatum:1.0,seq159_Methylobacteriaceae_Methylobacterium_suomiense:1.0)[&label=1]:2.532616)[&label=1]:0.259673)[&label=1]:0.208977)[&label=1,!collapse={"collapsed",5.504335848421679},!name="Methylobacterium B",!color=#ff0033]:1.566315,((seq153_Methylobacteriaceae_Methylobacterium_iners:1.0,((seq62_Meta_Lichen:1.0,seq138_Methylobacteriaceae_Methylobacterium_sp_017:1.0)[&label=1]:2.58472,(seq148_Methylobacteriaceae_Methylobacterium_sp_013:1.0,(seq137_Methylobacteriaceae_Methylobacterium_sp_009:1.0,(seq143_Methylobacteriaceae_Methylobacterium_sp_001:1.0,seq136_Methylobacteriaceae_Methylobacterium_sp_011:1.0)[&label=1]:0.29369)[&label=1]:0.77548)[&label=1]:0.986567)[&label=1]:0.253978)[&label=1,!collapse={"collapsed",7.5348064084673485},!name="Methylobacterium D",!color=#ff0033]:2.241638,((seq155_Methylobacteriaceae_Methylobacterium_jeotgali:1.0,seq139_Methylobacteriaceae_Methylobacterium_durans:1.0)[&label=1]:0.195402,((seq158_Methylobacteriaceae_Methylobacterium_trifolii:1.0,((seq59_Meta_Lichen:1.0,seq57_Meta_Lichen:1.0)[&label=1]:0.539703,(seq152_Methylobacteriaceae_Methylobacterium_cerastii:1.0,seq80_Meta_Moss:1.0)[&label=1]:3.061731)[&label=1]:2.324155)[&label=1]:0.823318,(seq140_Methylobacteriaceae_Methylobacterium_radiodurans:1.0,(seq156_Methylobacteriaceae_Methylobacterium_komagatae:1.0,((seq60_Meta_Lichen:1.0,seq61_Meta_Lichen:1.0)[&label=1]:2.397813,(seq135_Methylobacteriaceae_Methylobacterium_fujisawaense:1.0,(seq58_Meta_Lichen:1.0,(seq37_Meta_Phyllosphere:1.0,seq39_Meta_Phyllosphere:1.0)[&label=1]:4.528334)[&label=1]:0.424734)[&label=1]:3.059118)[&label=1]:0.201611)[&label=1]:2.018229)[&label=1]:0.205667)[&label=1]:1.319201)[&label=1,!collapse={"collapsed",0.0},!name="Methylobacterium A",!color=#ff0033]:0.858248)[&label=0.48]:0.12228)[&label=1,!collapse={"collapsed",0.0},!color=#ff0000,!name="Methylobacterium ABD"]:2.801221)[&label=1]:3.294641)[&label=1]:0.418517)[&label=1,!rotate=false]:1.596274,(((seq112_Boseaceae_Bosea_rubneri:1.0,(seq110_Boseaceae_Bosea_vestrisii:1.0,(seq122_Boseaceae_Bosea_lupini:1.0,seq118_Boseaceae_Bosea_eneae:1.0)[&label=1]:0.791632)[&label=1]:2.428104)[&label=1]:2.025829,((seq89_Boseaceae_Bosea_caraganae:1.0,(seq117_Boseaceae_Bosea_massiliensis:1.0,(seq121_Boseaceae_Bosea_lathyri:1.0,(seq86_Boseaceae_Bosea_psychrotolerans:1.0,seq85_Boseaceae_Bosea_vaviloviae:1.0)[&label=1]:3.502885)[&label=1]:1.093859)[&label=1]:0.542646)[&label=1]:0.322988,((seq99_Boseaceae_Bosea_spartocytisi:1.0,seq105_Boseaceae_Bosea_minatitlanensis:1.0)[&label=1]:0.76996,(seq123_Boseaceae_Bosea_thiooxidans:1.0,(seq111_Boseaceae_Bosea_beijingensis:1.0,seq120_Boseaceae_Bosea_robiniae:1.0)[&label=1]:2.234756)[&label=1]:0.676892)[&label=1]:2.434824)[&label=1]:0.540796)[&label=1,!collapse={"collapsed",11.048921220262775},!name="Bosea"]:3.978677,((seq103_Alsobacteraceae_Alsobacter_ponti:1.0,(seq96_Alsobacteraceae_Alsobacter_metallidurans:1.0,seq87_Alsobacteraceae_Alsobacter_soli:1.0)[&label=1]:3.319415)[&label=1,!collapse={"collapsed",14.86854066341463},!name="Alsobacter"]:3.497018,((seq75_Meta_Lichen[&!rotate=true]:1.0,seq170_Rhabdaerophilaceae_Rhabdaerophilum_calidifontis[&!color=#000000]:1.0)[&label=1,!rotate=true]:0.791817,(seq1_Roseiarcaceae_Roseiarcus_fermantans:1.0,((((seq102_Rhodoblastaceae_Rhodoblastus_alkanivorans:1.0,(seq163_Rhodoblastaceae_Rhodoblastus_sphagnicola:1.0,seq162_Rhodoblastaceae_Rhodoblastus_acidophilus:1.0)[&label=1]:3.199396)[&label=1,!collapse={"collapsed",11.92766879023966},!name="Rhodoblastus"]:3.441602,((seq132_JAJXWB01_NA:1.0,(seq71_Meta_Lichen:1.0,(seq30_Meta_Phyllosphere:1.0,seq48_Meta_Phyllosphere:1.0)[&label=1]:5.128003)[&label=1]:2.391463)[&label=1,!name="JAJXWB01",!collapse={"collapsed",9.771981888771156},!color=#ff6600]:1.096783,((seq82_Methylocystaceae_Methylosinus_trichosporium:1.0,seq88_Methylocystaceae_Methylosinus_sporium:1.0)[&label=1,!collapse={"collapsed",11.829905890647682},!name="Methylosinus"]:3.008329,((seq91_Methylocystaceae_Methylocystis_heyeri:1.0,seq108_Methylocystaceae_Methylocystis_bryophila:1.0)[&label=1]:1.512052,((seq167_Methylocystaceae_Methylocystis_echinoides:1.0,(seq107_Methylocystaceae_Methylocystis_iwaonis:1.0,seq106_Methylocystaceae_Methylocystis_parvus:1.0)[&label=1]:0.47779)[&label=1]:2.806423,(seq113_Methylocystaceae_Methylocystis_borbori:1.0,(seq83_Methylocystaceae_Methylocystis_rosea:1.0,(seq104_Methylocystaceae_Methylocystis_suflitae:1.0,(seq90_Methylocystaceae_Methylocystis_hirsuta:1.0,seq93_Methylocystaceae_Methylocystis_silviterrae:1.0)[&label=0.53]:0.020028)[&label=1]:0.444963)[&label=1]:4.76592)[&label=1]:2.895593)[&label=1,!collapse={"collapsed",3.763635110234727},!name="Methylocystis"]:2.186862)[&label=1,!collapse={"collapsed",3.763635110234727},!name="Methylocystis"]:0.761235)[&label=1]:3.549996)[&label=1]:0.180437)[&label=1]:0.790382,((seq129_Beijerinckiaceae_Methylovirgula_ligni:1.0,(seq125_Beijerinckiaceae_Methyloferula_stellata:1.0,((seq127_Beijerinckiaceae_Beijerinckia_mobilis:1.0,seq124_Beijerinckiaceae_Beijerinckia_indica:1.0)[&label=1,!collapse={"collapsed",10.39997455564239},!name="Beijerinckia"]:5.459591,((seq130_Beijerinckiaceae_Methylocella_tundrae:1.0,seq161_Beijerinckiaceae_Methylocella_silvestris:1.0)[&label=1,!collapse={"collapsed",11.663522084914243},!name="Methylocella"]:2.289708,(seq160_Beijerinckiaceae_Methylocapsa_palsarum:1.0,(seq128_Beijerinckiaceae_Methylocapsa_aurea:1.0,(seq126_Beijerinckiaceae_Methylocapsa_acidiphila:1.0,seq131_Beijerinckiaceae_Methylocapsa_polymorpha:1.0)[&label=1]:1.491466)[&label=1]:0.93563)[&label=1,!collapse={"collapsed",10.752037127959726},!name="Methylocapsa"]:0.774097)[&label=1]:1.906335)[&label=1]:0.219788)[&label=1]:0.788336)[&label=1]:1.843081,(seq63_Meta_Moss:1.0,((seq69_Meta_Lichen:1.0,(seq67_Meta_Lichen:1.0,(seq81_Meta_Moss:1.0,(seq168_RH_AL1_NA:1.0,seq169_RH_AL1_NA:1.0)[&label=1]:5.918894)[&label=1]:3.177729)[&label=1]:2.467323)[&label=0.98]:0.149247,((seq64_Meta_Lichen:1.0,(seq77_Meta_Lichen:1.0,seq70_Meta_Lichen:1.0)[&label=0.68]:0.04218)[&label=1]:5.320629,(((seq74_Meta_Lichen:1.0,seq72_Meta_Lichen:1.0)[&label=1]:1.854672,(seq68_Meta_Lichen:1.0,(seq78_Meta_Lichen:1.0,seq66_Meta_Lichen:1.0)[&label=1]:0.473305)[&label=0.2]:0.174248)[&label=1]:1.285888,(seq73_Meta_Lichen:1.0,(seq76_Meta_Lichen:1.0,(seq65_Meta_Lichen:1.0,(seq79_Meta_Moss:1.0,(seq47_Meta_Phyllosphere:1.0,(seq41_Meta_Phyllosphere:1.0,(seq44_Meta_Phyllosphere:1.0,(seq35_Meta_Phyllosphere:1.0,seq45_Meta_Phyllosphere:1.0)[&label=0.64]:0.051675)[&label=0.9]:0.082099)[&label=0.98]:0.108594)[&label=1]:4.953795)[&label=1]:0.956931)[&label=0.56]:0.068899)[&label=1]:0.599394)[&label=1]:3.993761)[&label=1]:0.828917)[&label=1]:0.286375)[&label=1]:1.434926)[&label=1,!collapse={"collapsed",2.9338151375664623},!name="RH_AL1",!color=#3333cc]:2.41159)[&label=1]:0.648279)[&label=1]:0.744319,((((seq8_Lichenihabitantaceae_Lichenifustis_flavocetrariae:1.0,seq9_Lichenihabitantaceae_Lichenifustis_sp:1.0)[&label=1]:1.552281,((seq36_Meta_Phyllosphere:1.0,seq40_Meta_Phyllosphere:1.0)[&label=1]:5.921312,(seq32_Meta_Phyllosphere:1.0,(seq49_Meta_Phyllosphere:1.0,(seq34_Meta_Phyllosphere:1.0,seq43_Meta_Phyllosphere:1.0)[&label=0.44]:0.018553)[&label=1]:4.472153)[&label=1]:1.599404)[&label=1]:0.787667)[&label=1,!collapse={"collapsed",6.775961668305005},!name="Lichenifustis",!color=#00cc33]:3.268063,((seq24_Meta_Lichen:1.0,(seq26_Meta_Lichen:1.0,seq33_Meta_Phyllosphere:1.0)[&label=1]:1.691968)[&label=1]:0.817723,((seq16_Meta_Lichen:1.0,(seq15_Meta_Lichen:1.0,seq18_Meta_Lichen:1.0)[&label=1]:2.777619)[&label=1]:0.957907,(seq22_Meta_Lichen:1.0,(seq20_Meta_Lichen:1.0,(seq7_Lichenihabitantaceae_Lichenihabitans_sp:1.0,(seq4_Lichenihabitantaceae_Lichenihabitans_psoromatis:1.0,seq5_Lichenihabitantaceae_Lichenihabitans_psoromatis:1.0)[&label=1]:0.905421)[&label=1]:6.050185)[&label=1]:0.549709)[&label=1]:0.590588)[&label=1]:0.484918)[&label=1,!collapse={"collapsed",5.872859432959732},!name="Lichenihabitans",!color=#009933]:2.468122)[&label=1]:0.181524,((seq19_Meta_Lichen:1.0,(seq23_Meta_Lichen:1.0,(seq10_Meta_Soil:1.0,seq12_Meta_Lichen:1.0)[&label=1]:0.18061)[&label=1]:1.087313)[&label=0.94]:0.073952,(((seq14_Meta_Lichen:1.0,seq17_Meta_Lichen:1.0)[&label=1]:4.348697,((seq6_Lichenihabitantaceae_Lichenibacterium_dinghuense:1.0,(seq13_Meta_Lichen:1.0,seq3_Lichenihabitantaceae_Lichenibacterium_minor:1.0)[&label=0.96]:0.207959)[&label=1]:2.374965,(seq2_Lichenihabitantaceae_Lichenibacterium_ramalinae:1.0,(seq11_Meta_Sediment:1.0,seq50_Meta_Moss:1.0)[&label=1]:3.0169)[&label=1]:0.246253)[&label=1]:1.060897)[&label=1]:2.044654,((seq31_Meta_Phyllosphere:1.0,(seq42_Meta_Phyllosphere:1.0,(seq21_Meta_Lichen:1.0,(seq27_Meta_Lichen:1.0,seq29_Meta_Phyllosphere:1.0)[&label=1]:2.956403)[&label=1]:1.164389)[&label=1]:0.752819)[&label=1]:3.434608,seq25_Meta_Lichen:1.0)[&label=1]:0.37606)[&label=1]:2.723632)[&label=1,!collapse={"collapsed",3.4415685733638313},!name="Lichenibacterium",!color=#006633]:2.253848)[&label=1,!color=#009933]:3.000042)[&label=0.59]:0.041691)[&label=1,!rotate=false]:1.930687)[&label=1]:0.390773)[&label=1]:0.654201)[&label=1]:0.182696)[&label=1,!name="Chelatococcaceae"]:0.6849)[&label=1,!name="Camelimonas",!collapse={"collapsed",9.709795810725609}]:2.859322)[&label=1]:3.879295):0.0);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=true;
+	set nodeShapeInternal.minSize=0.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=6.0;
+	set nodeShapeInternal.sizeAttribute="label";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=true;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=488;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=13;
+	set tipLabels.fontStyle=2;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
