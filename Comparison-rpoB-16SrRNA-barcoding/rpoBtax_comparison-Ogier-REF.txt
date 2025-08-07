@@ -1,0 +1,20 @@
+"Caulobacterales_Caulobacteraceae_Brevundimonas" "Caulobacterales_Caulobacteraceae_Caulobacter" "Caulobacterales_Caulobacteraceae_NA" "Caulobacterales_Caulobacteraceae_Phenylobacterium" "Caulobacterales_NA_NA" "NA_NA_NA" "Rhizobiales_Aurantimonadaceae_Aureimonas" "Rhizobiales_Aurantimonadaceae_NA" "Rhizobiales_Beijerinckiaceae_NA" "Rhizobiales_Beijerinckiaceae_RHgroup" "Rhizobiales_Bradyrhizobiaceae_Afipia" "Rhizobiales_Bradyrhizobiaceae_Bradyrhizobium" "Rhizobiales_Bradyrhizobiaceae_NA" "Rhizobiales_Bradyrhizobiaceae_Tardiphaga" "Rhizobiales_BradyrhizobiaceaeB_Bosea" "Rhizobiales_Brucellaceae_Ochrobactrum" "Rhizobiales_Hyphomicrobiaceae_Devosia" "Rhizobiales_Hyphomicrobiaceae_NA" "Rhizobiales_Lichenibacteriaceae_Lichenibacterium" "Rhizobiales_Methylobacteriaceae_Enterovirga" "Rhizobiales_Methylobacteriaceae_Methylobacterium" "Rhizobiales_Methylobacteriaceae_Microvirga" "Rhizobiales_Methylobacteriaceae_NA" "Rhizobiales_Methylocystaceae_Methylocystis" "Rhizobiales_Methylocystaceae_NA" "Rhizobiales_NA_NA" "Rhizobiales_Phyllobacteriaceae_Mesorhizobium" "Rhizobiales_Phyllobacteriaceae_NA" "Rhizobiales_Rhizobiaceae_Rhizobium" "Rhizobiales_Rhizobiaceae_Shinella" "Rhodospirillales_Acetobacteraceae_NA" "Rhodospirillales_Acetobacteraceae_Roseomonas" "Rhodospirillales_NA_NA" "Sphingomonadales_Sphingomonadaceae_Sphingomonas"
+"Beijerinckiaceae_NA" 0 0 0 0 0 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 0 1 0 0 0 0 0 0
+"Boseaceae_Bosea" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Chelatococcaceae_Camelimonas" 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chelatococcaceae_NA" 0 0 3 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"JAJXWB01_NA" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+"Lichenihabitantaceae_Lichenibacterium" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 259 0 0 0 0 0 1 39 0 0 0 0 0 0 0 0
+"Lichenihabitantaceae_Lichenifustis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 25 0 0 0 0 0 0 0 0
+"Lichenihabitantaceae_NA" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 0 0 0 0 0 0 0
+"Methylobacteriaceae_Enterovirga" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 3 0 0 2 0 0 0 0 0 0 0 0
+"Methylobacteriaceae_Hohaiivirga" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Methylobacteriaceae_Methylobacterium" 1 0 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 195 0 3 0 0 6 0 0 0 0 0 0 0 0
+"Methylobacteriaceae_Microvirga" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Methylobacteriaceae_NA" 16 0 45 5 1 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 14 0 0 30 0 0 0 0 0 0 1 6
+"Methylobacteriaceae_Salinarimonas" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Methylocystaceae_Methylocystis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 0 0 0 0 0 0 0
+"Methylocystaceae_NA" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+"NA_NA" 22 3 66 4 1 11 7 5 9 41 1 43 7 4 0 0 18 2 0 0 0 3 0 0 4 213 12 6 5 0 4 1 2 8
+"RHAL1_NA" 0 0 0 0 0 0 0 0 1 74 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Rhodoblastaceae_Rhodoblastus" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
