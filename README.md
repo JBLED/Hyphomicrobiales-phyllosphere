@@ -38,11 +38,11 @@ Script: *Convert-Tree.R*
 
 This part is to convert RAxML output tree files in readable format for FigTree. 
 
-- 16S_rRNA : tree built from complete 16S rRNA sequences extracted from reference genomes and metagenome
+- **16S_rRNA** : tree built from complete 16S rRNA sequences extracted from reference genomes and metagenome
 
-- rpoB : tree built from complete rpoB sequences extracted from reference genomes and metagenomes
+- **rpoB** : tree built from complete rpoB sequences extracted from reference genomes and metagenomes
 
-- Lichenibacterium_is_1174-901-12: tree built fro reference 16S rRNA sequence from Lichenihabitantaceae (NCBI) and sequences labelled as 1174-901-12 in SILVA 138.1 database
+- **Lichenibacterium_is_1174-901-12**: tree built from reference 16S rRNA sequences from Lichenihabitantaceae (NCBI) and sequences labelled as 1174-901-12 in SILVA 138.1 database
 
 ———————————————————————————————————
 
