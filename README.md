@@ -21,6 +21,7 @@ Script: *Script-BioProjects-Data-Formating-For-Github.R*
 This part is for read trimming and ASV definition (with dada2) for each Bioproject, raw ASV table abundance and rarefaction. 
 
 ———————————————————————————————————
+
 **Bioproject-16S-rRNA-analysing**
 
 Script: *Script-BioProjects-Data-Analysing-For-Github.R*
@@ -28,6 +29,7 @@ Script: *Script-BioProjects-Data-Analysing-For-Github.R*
 This part is for the taxonomic classification of  ASVs for each Bioproject, comparison or classification with SILVA 138.2 and reference genomes as a reference database and calculation of abundance for major bacteria taxon and especially Hyphomicrobiales for each BioProject and each category within BioProjects.
 
 ———————————————————————————————————
+
 **RAxML-tree-formating**
 
 Script: *Convert-Tree.R*
@@ -41,6 +43,9 @@ This part is to convert RAxML output tree files in readable format for FigTree.
 - Lichenibacterium_is_1174-901-12: tree built fro reference 16S rRNA sequence from Lichenihabitantaceae (NCBI) and sequences labelled as 1174-901-12 in SILVA 138.1 database
 
 ———————————————————————————————————
+
 **Comparison-rpoB-16SrRNA-barcoding**
+
 Script: *Comparison-rpoB-16SrRNA-For-Github.R*
+
 This part is for the taxonomic classification of ASVs from rpoB barcoding (BioProject PRJNA729807 = Leducq et al 2022, mBio) and comparison with relative abundances of phyllosphere-associated Hyphomicrobiales estimated from 16S rRNA genérale barcoding with the same samples.
