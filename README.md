@@ -12,6 +12,8 @@ Script: *Script-Genome-Analysis-version-For-Github.R*
 
 This part is for the definition of the core genome of phyllosphere-associated Hyphomicrobiales using reference genomes and metagenomes, and the inference of a genome-based phylogenetic tree for this group.
 
+*NB: original genome files, RAST files and core gene alignments are not included but can be provided upon request.*
+
 ———————————————————————————————————
 
 **Bioproject-16S-rRNA-formating**
