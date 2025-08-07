@@ -1,8 +1,8 @@
-This contains data and code for the manuscript entitled
+This contains data and code for the manuscript entitled:
 
-**A phylogenomic and metagenomic meta-analysis of bacterial diversity in the phyllosphere lifts a veil on Hyphomicrobiales dark matter**
+"**A phylogenomic and metagenomic meta-analysis of bacterial diversity in the phyllosphere lifts a veil on Hyphomicrobiales dark matter**"
 
-Preprint available on bioRxiv : TBA
+Preprint available on bioRxiv : ***TBA***
 
 ———————————————————————————————————
 
