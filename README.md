@@ -10,7 +10,7 @@ Preprint available on bioRxiv : ***TBA***
 
 Script: *Script-Genome-Analysis-version-For-Github.R*
 
-This part is for the definition of the core genome of phyllosphere-associated Hyphomicrobiales using reference genomes and metagenomes, and the inference of a genome-based phylogenetic tree for this group.
+This part is for the definition of the core genome of phyllosphere-associated Hyphomicrobiales using reference genomes and MAGs, and the inference of a genome-based phylogenetic tree for this group.
 
 *NB: original genome files, RAST files and core gene alignments are not included but can be provided upon request.*
 
@@ -38,9 +38,9 @@ Script: *Convert-Tree.R*
 
 This part is to convert RAxML output tree files in readable format for FigTree. 
 
-- **16S_rRNA** : tree built from complete 16S rRNA sequences extracted from reference genomes and metagenome
+- **16S_rRNA** : tree built from complete 16S rRNA sequences extracted from reference genomes and MAGs
 
-- **rpoB** : tree built from complete rpoB sequences extracted from reference genomes and metagenomes
+- **rpoB** : tree built from complete rpoB sequences extracted from reference genomes and MAGs
 
 - **Lichenibacterium_is_1174-901-12**: tree built from reference 16S rRNA sequences from Lichenihabitantaceae (NCBI) and sequences labelled as 1174-901-12 in SILVA 138.1 database
 
