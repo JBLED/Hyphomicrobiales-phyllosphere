@@ -53,11 +53,18 @@ Script: *Comparison-rpoB-16SrRNA-For-Github.R*
 This part is for the taxonomic classification of ASVs from rpoB barcoding (BioProject PRJNA729807 = Leducq et al 2022, mBio) and comparison with relative abundances of phyllosphere-associated Hyphomicrobiales estimated from 16S rRNA genérale barcoding with the same samples.
 
 ———————————————————————————————————
+
 **Supplementary material** (provided as excel files)
+
 •	**Dataset 1**: List of genomes and MAGs 
+
 •	**Dataset 2**: List of Bioprojects used for meta-analysis on 16S rRNA gene barcoding
+
 •	**Dataset 3**: List of core genes used for phylogenomic reconstruction
+
 •	**Dataset 4**: Comparison of taxonomy inferred with SILVA v138.2 and taxonomy refined with r16S rRNA sequences extracted from reference genomes (only for phyllosphere-associated Hyphomicrobiales ASVs)
+
 •	**Dataset 5**: Relative abundance of major taxa among 13 BioProjects, estimated from 16S rRNA gene barcoding (also used to draw pie charts in Figure 2) 
+
 •	**Dataset 6**: Abundance per taxa estimated from rpoB barcoding in 184 leaf samples (data from BioProject PRJNA729807)
 
