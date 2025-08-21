@@ -2,7 +2,12 @@ This contains data and code for the manuscript entitled:
 
 "**A phylogenomic and metagenomic meta-analysis of bacterial diversity in the phyllosphere lifts a veil on Hyphomicrobiales dark matter**"
 
-Preprint available on bioRxiv : ***TBA***
+Jean-Baptiste Leducq1, Louis-Philippe St-Amand1, David Ross2 & Steven W Kembel2
+
+1 - Université Laval
+2 - Université du Québec à Montréal
+
+Preprint available on bioRxiv : ***https://doi.org/10.1101/2025.08.19.671110***
 
 ———————————————————————————————————
 
