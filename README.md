@@ -59,6 +59,14 @@ This part is for the taxonomic classification of ASVs from rpoB barcoding (BioPr
 
 ———————————————————————————————————
 
+**TaxoSilvaWithRefSeq**
+
+Script: *TaxoSilvaWithRefSeq.R*
+
+This part is for the taxonomic classification of 16S rRNA complete sequences of Hyphomicrobiales type strains with SILVA v138.1 and SILVA 138.2
+
+———————————————————————————————————
+
 **Supplementary material** (provided as excel files)
 
 •	**Dataset 1** : List of types strains, NCBI accession numbers of their 16S rRNA gene sequences and their detailed taxonomy for the comparison of SILVA (v138.1 and v138.2), GTDB, NCBI and LPSN databases used for Table 1
