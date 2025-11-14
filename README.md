@@ -61,15 +61,20 @@ This part is for the taxonomic classification of ASVs from rpoB barcoding (BioPr
 
 **Supplementary material** (provided as excel files)
 
-•	**Dataset 1**: List of genomes and MAGs 
+•	**Dataset 1** : List of types strains, NCBI accession numbers of their 16S rRNA gene sequences and their detailed taxonomy for the comparison of SILVA (v138.1 and v138.2), GTDB, NCBI and LPSN databases used for Table 1
 
-•	**Dataset 2**: List of Bioprojects used for meta-analysis on 16S rRNA gene barcoding
+•	**Dataset 2** : List of Lichenihabitantaceae and 1174-901-12 16S rRNA gene sequences, their NCBI accession numbers and detailed descriptions used for phylogeny in Figure S1
 
-•	**Dataset 3**: List of core genes used for phylogenomic reconstruction
+•	**Dataset 3** : List of genomes and MAGs 
 
-•	**Dataset 4**: Comparison of taxonomy inferred with SILVA v138.2 and taxonomy refined with r16S rRNA sequences extracted from reference genomes (only for phyllosphere-associated Hyphomicrobiales ASVs)
+•	**Dataset 4** : List of Bioprojects used for meta-analysis on 16S rRNA gene barcoding
 
-•	**Dataset 5**: Relative abundance of major taxa among 13 BioProjects, estimated from 16S rRNA gene barcoding (also used to draw pie charts in Figure 2) 
+•	**Dataset 5** : List of core genes used for phylogenomic reconstruction
 
-•	**Dataset 6**: Abundance per taxa estimated from rpoB barcoding in 184 leaf samples (data from BioProject PRJNA729807)
+•	**Dataset 6** : Comparison of taxonomy inferred with SILVA v138.2 and taxonomy refined with r16S rRNA sequences extracted from reference genomes (only for phyllosphere-associated Hyphomicrobiales ASVs)
+
+•	**Dataset 7** : Relative abundance of major taxa among 13 BioProjects, estimated from 16S rRNA gene barcoding (also used to draw pie charts in Figure 2) 
+
+•	**Dataset 8** : Abundance per taxa estimated from rpoB barcoding in 184 leaf samples (data from BioProject PRJNA729807)
+
 
