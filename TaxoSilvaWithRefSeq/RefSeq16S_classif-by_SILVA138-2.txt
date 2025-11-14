@@ -1,0 +1,39 @@
+"Kingdom" "Phylum" "Class" "Order" "Family" "Genus" "Species"
+"Bosea_thiooxidans__DSM_9653__AJ250796" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Bosea" "thiooxidans"
+"Alsobacter_metallidurans__SK200a-9__AB231946" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Hyphomicrobiales Incertae Sedis" "Alsobacter" "metallidurans"
+"Methylorosula_polaris__V-022__EU586035" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylorosula" "polaris"
+"Methylocella_palustris__K__Y17144" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylocella" "palustris"
+"Beijerinckia_indica__ATCC_9039__M59060" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Beijerinckia" "indica"
+"Methylocapsa_acidiphila__B_2__AJ278726" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylocapsa" "acidiphila"
+"Methyloferula_stellata__DSM_22108__FR686343" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methyloferula" "stellata"
+"Methylovirgula_ligni__DSM_19998__FM252034" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylovirgula" NA
+"Pseudochelatococcus_lubricantis__MPA_1113__KJ886939" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Pseudochelatococcus" "lubricantis"
+"Camelimonas_lactis__CCM_7696__MT760168" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Camelimonas" NA
+"Chelatococcus_asaccharovorans__TE2__AJ294349" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Chelatococcus" "asaccharovorans"
+"Lichenibacterium_ramalinae__RmlP001__MG996730" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Lichenibacterium" NA
+"Lichenihabitans_psoromatis__PAMC_29148__MK344722" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Lichenibacterium" NA
+"Lichenifustis_flavocetrariae__BP6-180914__OP023140" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Lichenibacterium" NA
+"Saliniramus_fredricksonii__HL-109__KR560061" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Salinarimonas" NA
+"Salinarimonas_rosea__YIM_YD3__EU878006" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Salinarimonas" "rosea"
+"Enterovirga_rhinocerotis__YIM_100770__KC992737" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Enterovirga" "rhinocerotis"
+"Methylobacterium_organophilum__ATCC_27886__AB175638" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylobacterium" "organophilum"
+"Microvirga_subterranea__FaiI4__AY078053" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Microvirga" "subterranea"
+"Hohaiivirga_grylli__WL0021__PP504832" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" NA NA
+"Methylorubrum_extorquens__IAM_12631__AB175632" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylorubrum" "extorquens"
+"Psychroglaciecola_arctica__M6-76__KC511070" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Psychroglaciecola" "arctica"
+"Rhabdaerophilum_calidifontis__SYSU_G02060__MN561030" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Hyphomicrobiales Incertae Sedis" "Phreatobacter" NA
+"Rhodoblastus_acidophilus__DSM_137__FR733696" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Rhodoblastus" "acidophilus"
+"Roseiarcus_fermentans__Pf56__KJ406703" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Roseiarcus" NA
+"Terripilifer_ovatus__H3SJ34-1__OQ543116" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" NA NA
+"Terrirubrum_flagellatum__7MK25__MT904663" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" NA NA NA
+"Methylocystis_parva__OBBP__Y18945" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylocystis" NA
+"Methylosinus_trichosporium__OB3b__Y18947" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylosinus" "trichosporium"
+"Albibacter_methylovorans__DM10__AF273213" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Methylopilaceae" "Albibacter" "methylovorans"
+"Chenggangzhangella_methanolivorans__CHL1__KF726142" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Methylopilaceae" "Chenggangzhangella" "methanolivorans"
+"Hansschlegelia_plantiphila__VKM_B-2347__MT760665" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Methylopilaceae" "Hansschlegelia" "plantiphila"
+"Methylopila_capsulata__IM1__AF004844" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Methylopilaceae" "Methylopila" NA
+"Terrihabitans_soli__IZ_6__AP023361" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "D05-2" NA NA
+"Agaricicola_taiwanensis__CC-SBABM117__FJ594057" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Stappiaceae" "Agaricicola" "taiwanensis"
+"Phreatobacter_oligotrophus__PI_21__HE616165" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Hyphomicrobiales Incertae Sedis" "Phreatobacter" "oligotrophus"
+"RH_AL1" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylocella" NA
+"JAJXWB01" "Bacteria" "Pseudomonadota" "Alphaproteobacteria" "Hyphomicrobiales" "Beijerinckiaceae" "Methylocystis" NA
