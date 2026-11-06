@@ -18,6 +18,7 @@ Script: *Script-Genome-Analysis-version-For-Github.R*
 This part is for the definition of the core genome of phyllosphere-associated Hyphomicrobiales using reference genomes and MAGs, and the inference of a genome-based phylogenetic tree for this group.
 
 **Large files are available here: https://zenodo.org/records/23992471**
+
 Those include:
 - genome assemblies in FASTA format;
 - RAST annotation files for all genomes analyzed;
